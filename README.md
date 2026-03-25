@@ -1,6 +1,6 @@
 # digital-literacy-project
 "Digital Literacy Portfolio created for the CSE0001 course at VIT Bhopal. Contains resources on digital awareness, professional online presence, coding platforms, email etiquette, and cybercrime prevention."
-# CSE0001 - Digital Literacy Portfolio [cite: 1]
+# CSE0001 - Digital Literacy Portfolio 
 
 ## Project Overview 
 This repository serves as my Digital Literacy Portfolio, created for my role as a Student Digital Ambassador[cite: 4, 6]. It contains a collection of resources, checklists, and tasks designed to help peers navigate the digital world safely, responsibly, and professionally[cite: 5].
